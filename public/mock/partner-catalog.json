@@ -1,0 +1,22 @@
+[
+  { "id": 1, "partnerCode": "PT-001", "partnerName": "Alpha Supply Co., Ltd.", "partnerType": "Vendor" },
+  { "id": 2, "partnerCode": "PT-002", "partnerName": "Bright Logistics", "partnerType": "Vendor" },
+  { "id": 3, "partnerCode": "PT-003", "partnerName": "Crest Consulting Group", "partnerType": "Service" },
+  { "id": 4, "partnerCode": "PT-004", "partnerName": "Delta Print House", "partnerType": "Vendor" },
+  { "id": 5, "partnerCode": "PT-005", "partnerName": "Eastwind Travel", "partnerType": "Service" },
+  { "id": 6, "partnerCode": "PT-006", "partnerName": "Fusion Software", "partnerType": "Technology" },
+  { "id": 7, "partnerCode": "PT-007", "partnerName": "Green Office Solutions", "partnerType": "Vendor" },
+  { "id": 8, "partnerCode": "PT-008", "partnerName": "Highland Maintenance", "partnerType": "Service" },
+  { "id": 9, "partnerCode": "PT-009", "partnerName": "Innotech Systems", "partnerType": "Technology" },
+  { "id": 10, "partnerCode": "PT-010", "partnerName": "Jupiter Media", "partnerType": "Marketing" },
+  { "id": 11, "partnerCode": "PT-011", "partnerName": "Kingdom Insurance", "partnerType": "Finance" },
+  { "id": 12, "partnerCode": "PT-012", "partnerName": "Lighthouse Training", "partnerType": "Training" },
+  { "id": 13, "partnerCode": "PT-013", "partnerName": "Metro Couriers", "partnerType": "Logistics" },
+  { "id": 14, "partnerCode": "PT-014", "partnerName": "Northstar Telecom", "partnerType": "Utility" },
+  { "id": 15, "partnerCode": "PT-015", "partnerName": "Orbit Advertising", "partnerType": "Marketing" },
+  { "id": 16, "partnerCode": "PT-016", "partnerName": "Prime Hardware", "partnerType": "Vendor" },
+  { "id": 17, "partnerCode": "PT-017", "partnerName": "Quantum Security", "partnerType": "Service" },
+  { "id": 18, "partnerCode": "PT-018", "partnerName": "Riverbank Bank", "partnerType": "Finance" },
+  { "id": 19, "partnerCode": "PT-019", "partnerName": "Skyline Builders", "partnerType": "Contractor" },
+  { "id": 20, "partnerCode": "PT-020", "partnerName": "Unity Workspace", "partnerType": "Office" }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "partner": "Partner A",
+    "description": "Travel",
+    "wbs": "WBS-1001",
+    "value": 1250,
+    "requestBy": "seed_user",
+    "status": "staged",
+    "stagedAt": "2026-03-25T09:00:00.000Z"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  { "id": 1, "expenseCode": "EXP-001", "description": "Travel - Local Transportation", "category": "Travel" },
+  { "id": 2, "expenseCode": "EXP-002", "description": "Travel - Airfare", "category": "Travel" },
+  { "id": 3, "expenseCode": "EXP-003", "description": "Travel - Accommodation", "category": "Travel" },
+  { "id": 4, "expenseCode": "EXP-004", "description": "Meal Allowance", "category": "Meal" },
+  { "id": 5, "expenseCode": "EXP-005", "description": "Client Entertainment", "category": "Business" },
+  { "id": 6, "expenseCode": "EXP-006", "description": "Office Supplies", "category": "Office" },
+  { "id": 7, "expenseCode": "EXP-007", "description": "Printer and Ink", "category": "Office" },
+  { "id": 8, "expenseCode": "EXP-008", "description": "Software License", "category": "Software" },
+  { "id": 9, "expenseCode": "EXP-009", "description": "Cloud Subscription", "category": "Software" },
+  { "id": 10, "expenseCode": "EXP-010", "description": "Internet and Telecom", "category": "Utility" },
+  { "id": 11, "expenseCode": "EXP-011", "description": "Courier and Shipping", "category": "Logistics" },
+  { "id": 12, "expenseCode": "EXP-012", "description": "Training and Workshop", "category": "HR" },
+  { "id": 13, "expenseCode": "EXP-013", "description": "Certification Fee", "category": "HR" },
+  { "id": 14, "expenseCode": "EXP-014", "description": "Marketing Material", "category": "Marketing" },
+  { "id": 15, "expenseCode": "EXP-015", "description": "Online Advertising", "category": "Marketing" },
+  { "id": 16, "expenseCode": "EXP-016", "description": "Maintenance and Repair", "category": "Maintenance" },
+  { "id": 17, "expenseCode": "EXP-017", "description": "Insurance Premium", "category": "Finance" },
+  { "id": 18, "expenseCode": "EXP-018", "description": "Bank Charge", "category": "Finance" },
+  { "id": 19, "expenseCode": "EXP-019", "description": "Professional Service Fee", "category": "Service" },
+  { "id": 20, "expenseCode": "EXP-020", "description": "Miscellaneous Expense", "category": "Other" }
+]
